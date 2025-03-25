@@ -1,5 +1,5 @@
 # My Portfolio Website
-## [thesaugaat.com.au](https://www.thesaugaat.com.au/)
+## [thesaugaat.net.au](https://www.thesaugaat.net.au/)
 
 ![Imgur](https://i.imgur.com/hq7MnKh.png)
 
