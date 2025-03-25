@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3e36dfd6.css",
+    "main.js": "/static/js/main.233e120a.js",
+    "static/js/787.71e672d5.chunk.js": "/static/js/787.71e672d5.chunk.js",
+    "static/media/python.png": "/static/media/python.6e1f9b44afef58baa380.png",
+    "static/media/google.jpeg": "/static/media/google.b76900c57fc08621d433.jpeg",
+    "static/media/about_img2.JPG": "/static/media/about_img2.f1c8d2697290e832aac5.JPG",
+    "static/media/iat.png": "/static/media/iat.77aad9ad13796ae83e13.png",
+    "static/media/Saugat_Resume.pdf": "/static/media/Saugat_Resume.cb318b095c59f159f677.pdf",
+    "static/media/aly.jpg": "/static/media/aly.f7aa593f103493974a11.jpg",
+    "static/media/about_me.JPG": "/static/media/about_me.b816ee60feeed5f4825c.JPG",
+    "index.html": "/index.html",
+    "main.3e36dfd6.css.map": "/static/css/main.3e36dfd6.css.map",
+    "main.233e120a.js.map": "/static/js/main.233e120a.js.map",
+    "787.71e672d5.chunk.js.map": "/static/js/787.71e672d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e36dfd6.css",
+    "static/js/main.233e120a.js"
+  ]
+}
